@@ -1,0 +1,1 @@
+[{"IdArticulo":10,"NombreArticulo":"Mouse","Cantidad":10},{"IdArticulo":70,"NombreArticulo":"Teclado","Cantidad":20},{"IdArticulo":5,"NombreArticulo":"Monitor","Cantidad":40}]

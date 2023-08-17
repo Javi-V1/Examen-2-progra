@@ -1,0 +1,1 @@
+[{"IdArticulo":105,"NombreArticulo":"Plancha","Cantidad":110},{"IdArticulo":705,"NombreArticulo":"Lavadora","Cantidad":210},{"IdArticulo":55,"NombreArticulo":"Cocina","Cantidad":14}]
