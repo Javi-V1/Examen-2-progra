@@ -1,1 +1,1 @@
-[{"IdArticulo":725,"NombreArticulo":"Arroz","Cantidad":111},{"IdArticulo":7,"NombreArticulo":"Azucar","Cantidad":212},{"IdArticulo":55,"NombreArticulo":"Frijoles","Cantidad":144}]
+[{"IdArticulo":725,"NombreArticulo":"Arroz","Cantidad":111},{"IdArticulo":55,"NombreArticulo":"Frijoles","Cantidad":144}]
